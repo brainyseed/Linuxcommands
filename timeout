@@ -1,0 +1,2 @@
+timeout 5s anyCommand
+timeout --preserve-status 5 ./anyScript 
